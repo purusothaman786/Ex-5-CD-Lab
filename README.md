@@ -68,7 +68,8 @@ void yyerror(const char *msg) {
 }
 ```
 # OUTPUT
-<img width="1121" height="633" alt="Screenshot 2025-10-06 142702" src="https://github.com/user-attachments/assets/901cf306-8be3-4415-8cd2-0ca21acc9825" />
+<img width="1121" height="633" alt="Screenshot 2025-10-06 142702" src="https://github.com/user-attachments/assets/2c1e0b4c-7daf-4883-93ab-2ff47126dbba" />
+
 
 # RESULT
 
